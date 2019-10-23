@@ -1,6 +1,6 @@
 ## Android Studio 에서 빌드시 sun.security.validator.ValidatorException 해결 하기
 
-1. Portecle GUI 다운로드 한 후 압축을 해제 하고 실행 한다.
+1. Portecle GUI 다운로드 한 후 압축을 해제 하고 실행 한다.  
   https://sourceforge.net/projects/portecle/files/latest/download 에서 다운로드 한 후 압축 해제  
   압축 해제한 풀더에서 protecle.jar 을 더블 클릭 하거나 커멘트창에서 java -jar portecle.jar 입력
   
