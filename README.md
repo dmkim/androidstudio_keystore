@@ -4,7 +4,7 @@
   https://sourceforge.net/projects/portecle/files/latest/download 에서 다운로드 한 후 압축 해제  
   압축 해제한 풀더에서 protecle.jar 을 더블 클릭 하거나 커멘트창에서 java -jar portecle.jar 입력
   
-    ![Alt text](https://github.com/dmkim/androidstudio_keystore/image/Screenshot_24.png)
+    ![Alt text](/image/Screenshot_24.png)
 
 2. Portecle GUI 실행후 Examine -> Examine SSL/TLS Connection 선택
     
@@ -37,5 +37,5 @@
 
     ![Alt text](/image/Screenshot_32.png)   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzk4MTE1OTRdfQ==
+eyJoaXN0b3J5IjpbLTE1NzY1NzQzNzldfQ==
 -->
