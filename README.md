@@ -32,9 +32,7 @@
   
 7. Android Studio 에 열려 있는 프로젝트에서 android\gradle.properties 에 cacerts 경로 추가  
 
-```
-systemProp.javax.net.ssl.trustStore=D\:\\Program Files\\Android\\Android Studio\\jre\\jre\\lib\\security\\cacerts  
-systemProp.javax.net.ssl.trustStorePassword=changeit  
-```
+    systemProp.javax.net.ssl.trustStore=D\:\\Program Files\\Android\\Android Studio\\jre\\jre\\lib\\security\\cacerts  
+    systemProp.javax.net.ssl.trustStorePassword=changeit   
 
     ![Alt text](/image/Screenshot_32.png)   
