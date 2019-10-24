@@ -18,8 +18,8 @@
 
     ![Alt text](/image/Screenshot_27.png)   
   
-5. Open Keystore File 버튼을 눌러 설치된 Android Studio 폴더에서 다음 경로에 있는 cacerts 파일 로드  
-  D:\Program Files\Android\Android Studio\jre\jre\lib\security  
+5. Open Keystore File 버튼을 눌러 사용자 Android Studio 세팅 폴더에서 다음 경로에 있는 cacerts 파일 로드  
+  C:\Users\dongmankim\\.AndroidStudio3.5\system\tasks
   비밀번호는 changeit  
   
      ![Alt text](/image/Screenshot_28.png)   
@@ -33,7 +33,7 @@
 7. Android Studio 에 열려 있는 프로젝트에서 android\gradle.properties 에 cacerts 경로 추가  
 
 ```
-    systemProp.javax.net.ssl.trustStore=D\:\\Program Files\\Android\\Android Studio\\jre\\jre\\lib\\security\\cacerts  
+    systemProp.javax.net.ssl.trustStore=C\:\\Users\\dongmankim\\.AndroidStudio3.5\\system\\tasks\\cacerts  
     systemProp.javax.net.ssl.trustStorePassword=changeit 
 ```  
 8. android\gradle.properties 화면  
