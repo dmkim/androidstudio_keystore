@@ -38,4 +38,4 @@
 ```  
 8. android\gradle.properties 화면  
 
-    ![Alt text](/image/Screenshot_32.png)   
+    ![Alt text](/image/Screenshot_33.png)   
